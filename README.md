@@ -9,9 +9,9 @@ Um divertido jogo de lógica em Python onde você deve descobrir o número secre
 ## ⚙️ Como Executar
 1. Certifique-se de ter o Python 3 instalado na sua máquina.
 2. Navegue até a pasta do projeto no seu terminal.
-3. Execute o script principal localizado na pasta `src`:
+3. Execute o script principal localizado na raiz do projeto: 
    ```bash
-   python src/main.py
+   python jgo.py
    ```
 
 ## 🧠 Conceitos Aplicados
